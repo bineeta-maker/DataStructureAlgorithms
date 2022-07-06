@@ -1,3 +1,3 @@
-# DataStructureAlgorithms
+# Data Structure and Algorithms
 
 WIP
